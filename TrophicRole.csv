@@ -1,0 +1,829 @@
+Node ID,Trophic Role 1
+1,organics
+2,organics
+3,chemotroph
+4,chemotroph
+5,chemotroph
+6,chemotroph
+7,chemotroph
+8,chemotroph
+9,chemotroph
+10,chemotroph
+11,chemotroph
+12,chemotroph
+13,chemotroph
+14,chemotroph
+15,chemotroph
+16,heterotroph
+17,chemotroph
+18,chemotroph
+19,heterotroph
+20,chemotroph
+21,chemotroph
+22,myxotroph
+23,myxotroph
+24,myxotroph
+25,myxotroph
+26,myxotroph
+27,myxotroph
+28,autotroph
+29,autotroph
+30,myxotroph
+31,myxotroph
+32,autotroph
+33,autotroph
+34,autotroph
+35,autotroph
+36,autotroph
+37,autotroph
+38,autotroph
+39,autotroph
+40,autotroph
+41,autotroph
+42,autotroph
+43,autotroph
+44,autotroph
+45,autotroph
+46,autotroph
+47,autotroph
+48,autotroph
+49,autotroph
+50,autotroph
+51,autotroph
+52,autotroph
+53,autotroph
+54,autotroph
+55,autotroph
+56,autotroph
+57,autotroph
+58,autotroph
+59,autotroph
+60,autotroph
+61,autotroph
+62,autotroph
+63,autotroph
+64,autotroph
+65,autotroph
+66,autotroph
+67,autotroph
+68,autotroph
+69,autotroph
+70,autotroph
+71,autotroph
+72,autotroph
+73,autotroph
+74,autotroph
+75,autotroph
+76,autotroph
+77,autotroph
+78,autotroph
+79,autotroph
+80,autotroph
+81,autotroph
+82,autotroph
+83,autotroph
+84,autotroph
+85,autotroph
+86,autotroph
+87,autotroph
+88,autotroph
+89,autotroph
+90,autotroph
+91,autotroph
+92,autotroph
+93,autotroph
+94,autotroph
+95,autotroph
+96,autotroph
+97,autotroph
+98,autotroph
+99,autotroph
+100,autotroph
+101,autotroph
+102,autotroph
+103,autotroph
+104,autotroph
+105,autotroph
+106,autotroph
+107,autotroph
+108,autotroph
+109,autotroph
+110,autotroph
+111,autotroph
+112,autotroph
+113,autotroph
+114,autotroph
+115,autotroph
+116,autotroph
+117,epiphyte
+118,autotroph
+119,autotroph
+120,autotroph
+121,autotroph
+122,autotroph
+123,autotroph
+124,autotroph
+125,myxotroph
+126,myxotroph
+127,autotroph
+128,autotroph
+129,autotroph
+130,autotroph
+131,autotroph
+132,autotroph
+133,autotroph
+134,autotroph
+135,autotroph
+136,autotroph
+137,myxotroph
+138,myxotroph
+139,myxotroph
+140,myxotroph
+141,autotroph
+142,autotroph
+143,autotroph
+144,autotroph
+145,autotroph
+146,autotroph
+147,autotroph
+148,autotroph
+149,autotroph
+150,autotroph
+151,autotroph
+152,autotroph
+153,autotroph
+154,autotroph
+155,autotroph
+156,autotroph
+157,autotroph
+158,autotroph
+159,autotroph
+160,autotroph
+161,autotroph
+162,autotroph
+163,autotroph
+164,autotroph
+165,autotroph
+166,autotroph
+167,autotroph
+168,autotroph
+169,autotroph
+170,autotroph
+171,autotroph
+172,autotroph
+173,autotroph
+174,autotroph
+175,autotroph
+176,autotroph
+177,autotroph
+178,autotroph
+179,autotroph
+180,autotroph
+181,autotroph
+182,autotroph
+183,autotroph
+184,autotroph
+185,autotroph
+186,autotroph
+187,autotroph
+188,autotroph
+189,autotroph
+190,autotroph
+191,autotroph
+192,autotroph
+193,autotroph
+194,autotroph
+195,autotroph
+196,autotroph
+197,autotroph
+198,autotroph
+199,autotroph
+200,autotroph
+201,autotroph
+202,autotroph
+203,autotroph
+204,autotroph
+205,autotroph
+206,autotroph
+207,autotroph
+208,autotroph
+209,autotroph
+210,autotroph
+211,autotroph
+212,autotroph
+213,autotroph
+214,autotroph
+215,autotroph
+216,autotroph
+217,autotroph
+218,autotroph
+219,autotroph
+220,autotroph
+221,saprobe
+222,saprobe
+223,saprobe
+224,saprobe
+225,saprobe
+226,saprobe
+227,saprobe
+228,saprobe
+229,saprobe
+230,saprobe
+231,saprobe
+232,detritivore
+233,omnivore (FF)
+234,omnivore (FF)
+235,omnivore (FF)
+236,omnivore (FF)
+237,omnivore (FF)
+238,omnivore (FF)
+239,omnivore (FF)
+240,omnivore (FF)
+241,herbivore (EFF)
+242,omnivore (FF)
+243,omnivore (FF)
+244,omnivore (FF)
+245,detritivore
+246,detritivore
+247,omnivore (FF)
+248,omnivore (FF)
+249,predator
+250,detritivore
+251,insectivore
+252,insectivore
+253,insectivore
+254,insectivore
+255,insectivore
+256,insectivore
+257,detritivore
+258,herbivore (RF)
+259,herbivore (EFF)
+260,herbivore (EFF)
+261,detritivore
+262,detritivore
+263,detritivore
+264,detritivore
+265,detritivore
+266,herbivore (EFF)
+267,herbivore (EFF)
+268,herbivore (P&S)
+269,herbivore (P&S)
+270,herbivore (P&S)
+271,herbivore (P&S)
+272,herbivore (P&S)
+273,herbivore (GA)
+274,herbivore (GA)
+275,herbivore (GA)
+276,herbivore (GA)
+277,herbivore (GA)
+278,herbivore (P&S)
+279,herbivore (P&S)
+280,herbivore (P&S)
+281,herbivore (P&S)
+282,herbivore (P&S)
+283,herbivore (P&S)
+284,herbivore (P&S)
+285,herbivore (RF)
+286,herbivore (RF)
+287,herbivore (P&S)
+288,herbivore (P&S)
+289,herbivore (P&S)
+290,herbivore (P&S)
+291,herbivore (P&S)
+292,herbivore (P&S)
+293,herbivore (P&S)
+294,insectivore
+295,insectivore
+296,insectivore
+297,insectivore
+298,herbivore (P&S)
+299,parasitoid
+300,herbivore (WB)
+301,insectivore
+302,insectivore
+303,insectivore
+304,detritivore
+305,insectivore
+306,insectivore
+307,herbivore (EFF)
+308,herbivore (EFF)
+309,herbivore (WB)
+310,herbivore (WB)
+311,herbivore (WB)
+312,herbivore (WB)
+313,herbivore (WB)
+314,herbivore (WB)
+315,herbivore (WB)
+316,herbivore (WB)
+317,herbivore (WB)
+318,herbivore (WB)
+319,herbivore (WB)
+320,herbivore (WB)
+321,herbivore (WB)
+322,herbivore (WB)
+323,herbivore (WB)
+324,herbivore (WB)
+325,herbivore (WB)
+326,herbivore (WB)
+327,herbivore
+328,herbivore
+329,herbivore
+330,herbivore
+331,herbivore (WB)
+332,herbivore (WB)
+333,herbivore (WB)
+334,herbivore (WB)
+335,herbivore (WB)
+336,herbivore (WB)
+337,herbivore (WB)
+338,herbivore (WB)
+339,herbivore (WB)
+340,herbivore (LM)
+341,herbivore (LM)
+342,herbivore (LM)
+343,herbivore (GA)
+344,herbivore (GA)
+345,herbivore (GA)
+346,herbivore (LM)
+347,herbivore (LM)
+348,herbivore (LM)
+349,fungivore
+350,fungivore
+351,herbivore (RF)
+352,herbivore (RF)
+353,herbivore (RF)
+354,herbivore (RF)
+355,herbivore (RF)
+356,insectivore
+357,insectivore
+358,insectivore
+359,insectivore
+360,insectivore
+361,insectivore
+362,insectivore
+363,insectivore
+364,herbivore (SP)
+365,herbivore (SP)
+366,herbivore (RF)
+367,herbivore (RF)
+368,herbivore (RF)
+369,insectivore
+370,insectivore
+371,insectivore
+372,insectivore
+373,insectivore
+374,insectivore
+375,insectivore
+376,herbivore (RF)
+377,herbivore (RF)
+378,herbivore (RF)
+379,herbivore (RF)
+380,herbivore (RF)
+381,herbivore (RF)
+382,herbivore (RF)
+383,herbivore (RF)
+384,herbivore (RF)
+385,herbivore (RF)
+386,herbivore (RF)
+387,herbivore (RF)
+388,herbivore (RF)
+389,insectivore
+390,insectivore
+391,fungivore
+392,detritivore
+393,detritivore
+394,detritivore
+395,detritivore
+396,detritivore
+397,detritivore
+398,detritivore
+399,herbivore (RF)
+400,fungivore
+401,detritivore
+402,insectivore
+403,detritivore
+404,herbivore (EFF)
+405,herbivore (EFF)
+406,herbivore (EFF)
+407,herbivore (EFF)
+408,herbivore (EFF)
+409,herbivore (EFF)
+410,herbivore (EFF)
+411,herbivore (EFF)
+412,herbivore (EFF)
+413,herbivore (EFF)
+414,herbivore (EFF)
+415,herbivore (EFF)
+416,herbivore (EFF)
+417,herbivore (WB)
+418,herbivore (WB)
+419,herbivore (WB)
+420,herbivore (EFF)
+421,herbivore (EFF)
+422,herbivore (EFF)
+423,herbivore (EFF)
+424,herbivore (EFF)
+425,herbivore (LM)
+426,herbivore (SP)
+427,herbivore (WB)
+428,herbivore (SP)
+429,herbivore
+430,herbivore (SP)
+431,herbivore (EFF)
+432,herbivore (SP)
+433,herbivore (LM)
+434,herbivore (WB)
+435,parasitoid
+436,detritivore
+437,detritivore
+438,detritivore
+439,detritivore
+440,detritivore
+441,detritivore
+442,herbivore (GA)
+443,herbivore (GA)
+444,herbivore (GA)
+445,herbivore (GA)
+446,herbivore (GA)
+447,herbivore (GA)
+448,herbivore (GA)
+449,herbivore (GA)
+450,herbivore (GA)
+451,herbivore (GA)
+452,herbivore (GA)
+453,herbivore (GA)
+454,herbivore (GA)
+455,herbivore (GA)
+456,herbivore (GA)
+457,herbivore (GA)
+458,herbivore (GA)
+459,parasitoid
+460,detritivore
+461,detritivore
+462,insectivore
+463,insectivore
+464,fungivore
+465,parasitoid
+466,herbivore (GA)
+467,herbivore (LM)
+468,herbivore (LM)
+469,herbivore (GA)
+470,herbivore (EFF)
+471,herbivore (LM)
+472,parasitoid
+473,parasitoid
+474,parasitoid
+475,parasitoid
+476,parasitoid
+477,parasitoid
+478,parasitoid
+479,parasitoid
+480,herbivore (GA)
+481,herbivore (GA)
+482,insectivore
+483,insectivore
+484,insectivore
+485,insectivore
+486,insectivore
+487,insectivore
+488,fungivore
+489,parasitoid
+490,parasitoid
+491,parasitoid
+492,parasitoid
+493,insectivore
+494,insectivore
+495,herbivore (SFF)
+496,detritivore (PO)
+497,detritivore (SFF)
+498,detritivore (SFF)
+499,herbivore
+500,detritivore
+501,detritivore
+502,herbivore (LM)
+503,herbivore (LM) 
+504,herbivore (LM) 
+505,herbivore (LM) 
+506,herbivore (LM) 
+507,herbivore (LM)
+508,herbivore (LM)
+509,herbivore (LM)
+510,herbivore (LM)
+511,herbivore (LM)
+512,herbivore (LM)
+513,herbivore (LM)
+514,herbivore (LM)
+515,herbivore (LM)
+516,herbivore (LM)
+517,herbivore (LM)
+518,herbivore (LM)
+519,herbivore (LM)
+520,herbivore (LM)
+521,herbivore (EFF)
+522,herbivore (EFF)
+523,herbivore (EFF)
+524,herbivore (EFF)
+525,herbivore (EFF)
+526,herbivore (EFF)
+527,herbivore (EFF)
+528,herbivore (EFF)
+529,herbivore (EFF)
+530,herbivore (EFF)
+531,herbivore (EFF)
+532,herbivore (EFF)
+533,herbivore (EFF)
+534,herbivore (EFF)
+535,herbivore (EFF)
+536,herbivore (EFF)
+537,herbivore (EFF)
+538,herbivore (EFF)
+539,herbivore (GA)
+540,herbivore (GA)
+541,herbivore (EFF)
+542,herbivore (EFF)
+543,herbivore (EFF)
+544,herbivore (EFF)
+545,herbivore (EFF)
+546,herbivore (EFF)
+547,herbivore (EFF)
+548,herbivore (EFF)
+549,herbivore (GA)
+550,herbivore (GA)
+551,herbivore (GA)
+552,herbivore (GA)
+553,herbivore (GA)
+554,herbivore (GA)
+555,herbivore (GA)
+556,detritivore
+557,predator
+558,piscivore
+559,predator
+560,piscivore
+561,omnivore
+562,insectivore
+563,insectivore
+564,insectivore
+565,piscivore
+566,predator
+567,insectivore
+568,insectivore
+569,predator
+570,insectivore
+571,herbivore
+572,omnivore
+573,predator
+574,insectivore
+575,herbivore
+576,molluscivore
+577,insectivore
+578,predator
+579,predator
+580,predator
+581,insectivore
+582,predator
+583,predator
+584,predator
+585,predator
+586,predator
+587,predator
+588,piscivore
+589,predator
+590,predator
+591,omnivore
+592,omnivore
+593,predator
+594,piscivore
+595,piscivore
+596,predator
+597,predator
+598,predator
+599,piscivore
+600,predator
+601,piscivore
+602,herbivore
+603,herbivore
+604,predator
+605,insectivore
+606,piscivore
+607,piscivore
+608,predator
+609,predator
+610,predator
+611,omnivore
+612,omnivore
+613,insectivore
+614,predator
+615,predator
+616,predator
+617,omnivore
+618,insectivore
+619,omnivore
+620,herbivore (SP)
+621,insectivore
+622,herbivore (SP)
+623,herbivore (SP)
+624,omnivore
+625,insectivore
+626,omnivore
+627,herbivore (SP)
+628,insectivore
+629,insectivore
+630,insectivore
+631,insectivore
+632,insectivore
+633,insectivore
+634,insectivore
+635,insectivore
+636,insectivore
+637,herbivore (SFF)
+638,insectivore
+639,omnivore
+640,predator
+641,piscivore
+642,insectivore
+643,insectivore
+644,insectivore
+645,insectivore
+646,insectivore
+647,insectivore
+648,omnivore
+649,herbivore (SFF)
+650,insectivore
+651,insectivore
+652,insectivore
+653,herbivore (SFF)
+654,insectivore
+655,omnivore
+656,omnivore
+657,omnivore
+658,omnivore
+659,piscivore
+660,piscivore
+661,herbivore
+662,herbivore (SP)
+663,predator
+664,insectivore
+665,predator
+666,insectivore
+667,insectivore
+668,omnivore
+669,insectivore
+670,insectivore
+671,insectivore
+672,insectivore
+673,insectivore
+674,insectivore
+675,insectivore
+676,insectivore
+677,insectivore
+678,insectivore
+679,omnivore
+680,predator
+681,insectivore
+682,herbivore (EFF)
+683,predator
+684,predator
+685,herbivore (EFF)
+686,herbivore (EFF)
+687,herbivore (SP)
+688,herbivore (SP)
+689,herbivore
+690,fungivore
+691,herbivore (EFF)
+692,herbivore (SP)
+693,predator
+694,omnivore
+695,omnivore
+696,herbivore (SP)
+697,herbivore (EFF)
+698,insectivore
+699,insectivore
+700,omnivore
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
